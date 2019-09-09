@@ -7,7 +7,7 @@ diagram: true
 markup: mmark
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: ''
 ---
 
 ### Breif Overview of Problem Statement:
